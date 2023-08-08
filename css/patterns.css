@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 6.4rem;
+    line-height: 81px;
+    letter-spacing: -0.045em;
+    color: #FFFFFF;
+}
+
+
+.btn-primary{
+    display: inline-block;
+    background-color: #07AF69;
+    padding: 18px 45px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.btn-primary:hover{
+    background-color: #EC6608;
+    color: #fff;
+}
+

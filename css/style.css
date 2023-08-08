@@ -1,0 +1,131 @@
+
+.s-banner{
+    padding: 140px 0;
+    background-color: #F8FCFF;
+}
+.s-banner .container{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.s-banner .container .dir{ 
+    width: 100%;
+    max-width: 515px;
+}
+.s-banner .container .dir span{ 
+    font-family: 'Montserrat';
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 32px;
+    color: #09408C;
+    display: block;
+    margin-top: 52px;
+}
+
+.s-banner .container .dir h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 112.4%;
+    color: #09408C;
+    margin-top: 18px;
+}
+
+.s-banner .container .dir p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 32px;
+    color: #2E2E2E;
+    margin-top: 20px;
+}
+
+.s-banner .container .dir .aprovados{ 
+    display: flex;
+    align-items: center;
+    margin-top: 42px;
+}
+.s-banner .container .dir .aprovados img{ 
+    margin-right: 10px;
+}
+.s-banner .container .dir .aprovados p {
+    font-family: 'Montserrat';
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 129.4%;
+    color: #FFFFFF;
+    display: block;
+    margin-top: 0;
+}
+
+.s-banner .container .dir .btn-garantir{ 
+    display: block;
+    display: flex;
+    align-items: center;
+    margin-top: 52px;
+    width: 451px;
+    background: linear-gradient(90deg, #31A738 5.1%, #34C43F 100%);
+    border-radius: 38px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 32px;
+    color: #FFFFFF;
+    padding: 22px 32px;
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    outline: 8px solid rgba(255,255,255,0);
+    justify-content: center;
+}
+.s-banner .container .dir .btn-garantir:hover {
+    outline: 8px solid rgba(255,255,255,0.2);
+}
+
+.s-banner .container .dir .btn-garantir img{ 
+    margin-right: 8px;
+}
+
+.s-banner .container .esq{ 
+    width: 100%;
+    max-width: 592px;
+}
+
+
+
+footer{
+    padding-top: 35px;
+    padding-bottom: 25px;
+    background-color: #091456;
+}
+
+footer .container img{
+    width: 100%;
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+footer .container span{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+  

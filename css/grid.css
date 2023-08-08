@@ -1,0 +1,11 @@
+.container{
+    width: 100%;
+    max-width: 124.6rem;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+/* // .container-fluid{
+//     width: 100%;
+//     padding: 0px 15px;
+// } */
